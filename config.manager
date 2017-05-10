@@ -1,0 +1,2 @@
+Ice.ThreadPool.Server.Size=4
+Ice.ThreadPool.Server.SizeMax=10
